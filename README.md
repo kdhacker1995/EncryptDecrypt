@@ -12,9 +12,11 @@ RUN OF SCRIPT:
 
 There have 3 Options 
   - Encrypt
-  - Decrypy
+  - Decrypt
   - Exit
+ 
  ####################################################
+
 - If you choose Encrypt then it will Encrypt the file using password (Password That you give) and remove original file and create file with .gpg extenstion.
 - If you want to Decrypt the file then you need to choose .gpg extenstion file and type your password to decrypt. When you decrypt then it will create .gpg.txt extension file so you can access file.
 

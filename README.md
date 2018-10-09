@@ -7,7 +7,7 @@
 
 
 RUN OF SCRIPT:
-  > chmod 777 EncryptDecrypt.sh
+  > chmod 777 EncryptDecrypt.sh;
   > ./EncryptDecrypt.sh
 
 ANd Choose Options according to use.....
